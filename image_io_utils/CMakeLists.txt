@@ -14,7 +14,7 @@ add_subdirectory(src/image_io_utils)
 add_subdirectory(src/camera_params)
 
 	
-add_subdirectory(src/image-tool)
+#add_subdirectory(src/image-tool)
 #add_subdirectory(src/tools)
 
 # Old tools from Matt:
